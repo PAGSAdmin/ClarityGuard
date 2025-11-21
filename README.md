@@ -6,15 +6,6 @@
 
 **Evidence First. Noise Last. Clarity Wins.**
 
-ClarityGuard is an open-source, Grok-native clarity lens that doesn’t censor — it clarifies.
-
-...
-ClarityGuard is an open-source clarity lens that works with **any** AI and **any** device
-
-# ClarityGuard: The Narrative Firewall
-
-**Evidence First. Noise Last. Clarity Wins.**
-
 ClarityGuard is an open-source clarity lens that works with **any** AI and **any** device.
 
 It doesn’t censor — it clarifies.
