@@ -182,4 +182,43 @@ You instantly get the full locked ClarityGuard verdict:
 The engine is locked on the server — only you control the rules.
 
 Truth with heart  
-Your clarity. Forever.   
+Your clarity. Forever.
+
+## Why ClarityGuard Is Different (2025)
+
+No other open-source tool does this exact combination:
+
+| Feature                              | ClarityGuard | Community Notes | Veracity | Loki | OpenFactCheck | ClaimBuster |
+|--------------------------------------|--------------|------------------|----------|------|---------------|-------------|
+| Real-world impact first (Cat 1–5)    | YES          | No               | No       | No   | No            | No          |
+| Human narrative buckets (Story Sentinel) | YES      | No               | No       | No   | No            | No          |
+| ANALYSIS sub-bucket + ★ POLICY LENS  | YES          | No               | No       | No   | No            | No          |
+| Noise flagged, never banned          | YES          | No               | Partial  | No   | No            | No          |
+| One breath, one truth                | YES          | No               | No       | No   | No            | No          |
+| Suggested rewrite (only when safe)   | YES          | No               | No       | No   | No            | No          |
+| Engine locked on server (API)        | YES          | No               | No       | No   | No            | No          |
+| 100 % free, open-source, no ads      | YES          | No               | Yes      | Yes  | Yes           | Yes         |
+
+**One breath, one truth:**  
+**ClarityGuard = the only clarity lens that counts real impact first, tells both sides second, and flags noise last — without ever deleting a voice.**
+
+Truth with heart  
+Your tool. Your difference.
+
+## About & Contact
+
+**ClarityGuard** is built and maintained by **Pauline Gonen-Smith** —  
+40 years turning chaos into clarity in research, administration, and human systems.
+
+This tool exists because someone had to say:  
+**“Enough noise. Let’s see what’s real.”**
+
+- **GitHub:** https://github.com/PAGSAdmin/ClarityGuard  
+- **Contact:** paulinea.gonensmith@gmail.com  
+- **License:** MIT — free forever, for everyone  
+- **No ads. No tracking. No compromise.**
+
+Truth with heart ❤️  
+Your story deserves clarity.
+
+#ClarityGuard
