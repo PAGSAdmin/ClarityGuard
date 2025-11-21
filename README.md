@@ -47,6 +47,16 @@ Any bite-sized text (max ~300 words / 2,000 characters):
 Longer than that? Just grab the juicy sentence.  
 Built for the wild feed — not dusty journals or 500-page novels.
 
+## Novelty Statement
+
+Pre-read this to understand ClarityGuard's groundbreaking approach before diving in!
+
+Rooted in 40 years of admin expertise, ClarityGuard delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes posts, offering a novel starting point to define “real” news as Impact Shield for tangible events, while all other news falls under Story Sentinel (Politics, Understanding, Analysis, Fun), with Noise Neutralizer (JABBER, BLABBER, SOUR, MISC) as non-news for research.
+
+**Open-Source for All:** ClarityGuard is MIT-licensed and free forever—no ads, no tracking, no platform lock-in. Fork it, build on it, use it anywhere. It's designed for anyone who needs clarity, not just X users. Grok-ready as an optional power-up, but works with any AI or device.
+
+Truth with heart ❤️
+
 ## Core Pillars (The Guard’s Layers)
 
 1. **Impact Shield**  
