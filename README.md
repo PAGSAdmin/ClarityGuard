@@ -85,6 +85,27 @@ Puppies win. Everyone wins. Kittens are fine.
 Created by PAGS — 40 years turning chaos into clarity  
 Your clarity. Your control.
 
+## License & Future
+
+ClarityGuard is released under the **MIT License** (see LICENSE file) — free for anyone to use, modify, and share forever.
+
+A provisional patent application (US 63/845,773) covering the Population Impact Factor (PIF) methodology was filed in July 2025. The entire project, including the provisional patent, is available for acquisition.
+
+Interested parties may contact:  
+**paulinea.gonensmith@gmail.com**  
+Credit to Pauline Gonen-Smith (PAGS) 
+
+Until acquisition, ClarityGuard remains 100% free, open-source, and community-driven under MIT.
+
+Truth with heart  
+Created by PAGS — 40 years turning chaos into clarity  
+Your clarity. Your control.
+
+
+
+
+
+
 ### How to use (5 seconds)
 **Option 1 — one-liner (copy-paste into Grok/ChatGPT/Claude)**  
 ```python
@@ -98,7 +119,6 @@ Core engine stays private — only the API is public
 Not legal/medical fact-checking — a clarity lens only
 Use it on yourself first. Clarity works both ways.
 
-Free forever · No ads · No tracking · No surrender
-Truth with heart
-Created by PAGS — 40 years turning chaos into clarity
-Your clarity. Your control.
+# ClarityGuard — a free truth quantifying tool forever ❤️
+Created by PAGS
+
