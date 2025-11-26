@@ -2,223 +2,76 @@
   <img src="Clarity_Guard-logo_2.png" width="120" alt="ClarityGuard"/>
 </div>
 
-# ClarityGuard: The Narrative Firewall
+# ClarityGuard — a free truth quantifying tool forever
+Created by PAGS ❤️
 
-**Evidence First. Noise Last. Clarity Wins.**
+**The problem**  
+Every day we drown in headlines, memes, and posts designed to scare, divide, or confuse us — often in under 280 characters.
 
-ClarityGuard is an open-source clarity lens that works with **any** AI and **any** device.
+**What we know**  
+- Real emergencies (thousands affected, lives lost) get buried under opinion and noise.  
+- People want clarity fast, but fact-checkers are slow and corporate tools hide more than they reveal.  
+- Most of us just want to know: *Is this actually important? And what’s the real truth?*
 
-It doesn’t censor — it clarifies.
+**What we don’t know (and what’s still controversial)**  
+- Which stories are life-or-death vs. just loud opinions?  
+- How much risk is “a little” poison, “some” cigarettes, or “100 cigarettes in a lifetime”?  
+- Who to trust when everyone claims to have “the facts”?
 
-Born from 40 years of real-world admin grit and storytelling smarts, it turns any short post or headline into **actionable truth** in seconds:
+**What ClarityGuard does**  
+In 3 seconds, it turns any messy post or headline into calm, human truth.
 
-- Real impacts that demand attention  
-- Stories that spark honest “aha!” without spin  
-- Noise flagged (never banned) so free speech thrives
+### The 9 buckets — how ClarityGuard sorts the entire internet
+| Bucket       | What it catches                                      |
+|--------------|-------------------------------------------------------|
+| Impact       | Real people counted — deaths, injuries, disasters     |
+| Politics     | Power, law, war, elections                            |
+| Understanding| Anything humans want to understand better (health, science, parenting, history, tech, food, psychology…) |
+| Analysis     | “Study says”, percentages, data drops                 |
+| Fun          | Joy, jokes, memes, sports, celebration                |
+| Jabber       | All-caps rants                                        |
+| Blabber      | Conspiracies                                          |
+| Sour         | Classic dose/toxin fallacies                          |
+| None         | Pure gibberish (almost never used)                    |
 
-Badges, scores, and one-tap context — so you see the real issue instantly.
+### Example — before & after
+**Messy headline**  
+“NEW STUDY: Eating one apple a day exposes you to dangerous levels of cyanide from the seeds. Apple seeds contain arsenic-like poison. Doctors warn: stop giving apples to children!”
 
-Open-source. Works everywhere.  
-https://github.com/PAGSAdmin/ClarityGuard
+**ClarityGuard output**  
+Speaking Head Paraphrase: Claim that apple seeds are dangerous because of cyanide.  
+Chart Increasing Insight: You’d need to chew ~200 seeds (20 apples) in one sitting for any risk.  
+Speaking Head One breath, one truth: Truth: dose makes the poison.  
+Yellow Circle Grade: B · Collect: #Health:Diet:Apples ✨  
+Magnifying Glass tilted left Learn more → “How many apple seeds to reach toxicity?”  
 
-Truth with heart
+*Verdict: You just neutralised a viral fear headline. ClarityGuard applied the dose-makes-the-poison rule and turned panic into calm.*
 
-## Built for Anyone Who Needs Clarity — Fast, Honest, Human
-
-- Parents — cut through fear headlines about kids & screens  
-- Patients — weigh medical claims before the next appointment  
-- Voters — see policy impact, not just politics  
-- Students — separate fact from spin in research  
-- Journalists — pre-publish sanity check  
-- Coders & analysts — turn noise into structured insight  
-- Curious humans — ask any question, get the gist
-
-No feed takeover.  
-No censorship.  
-Just one tap of context — for any story, anywhere.
-
-## What Counts as a “Story”?
-
-Any bite-sized text (max ~300 words / 2,000 characters):
-
-- X posts · Headlines · Meme captions  
-- Tweet threads (first few)  
-- Random copy-paste claims
-
-Longer than that? Just grab the juicy sentence.  
-Built for the wild feed — not dusty journals or 500-page novels.
-
-## Novelty Statement
-
-Pre-read this to understand ClarityGuard's groundbreaking approach before diving in!
-
-Rooted in 40 years of admin expertise, ClarityGuard delivers an innovative framework incorporating best practices from pre-computer and AI eras, restoring them in this new age to establish clarity in social media chaos. It processes posts, offering a novel starting point to define “real” news as Impact Shield for tangible events, while all other news falls under Story Sentinel (Politics, Understanding, Analysis, Fun), with Noise Neutralizer (JABBER, BLABBER, SOUR, MISC) as non-news for research.
-
-**Open-Source for All:** ClarityGuard is MIT-licensed and free forever—no ads, no tracking, no platform lock-in. Fork it, build on it, use it anywhere. It's designed for anyone who needs clarity, not just X users. Grok-ready as an optional power-up, but works with any AI or device.
-
-Truth with heart ❤️
-
-## Core Pillars (The Guard’s Layers)
-
-1. **Impact Shield**  
-   Spots verifiable real-world hits: floods closing roads, shutdowns stranding commuters, parades uniting crowds.  
-   Badges: **! EMERGENCY WARNING** (haptic buzz for disasters, cross-checked via NOAA/AP/RSS).  
-   Why it guards: Anchors truth in data — only high-confidence events break through.
-
-2. **Story Sentinel**  
-   Surfaces narrative gold:  
-   - POLITICS debates  
-   - UNDERSTANDING deep dives  
-   - **ANALYSIS** (models & studies) → **★ POLICY LENS**  
-   - FUN connectors (memes, festivals)  
-
-   Badges: **★ HIGH-IMPACT AHA!** for stories that shift perspectives.  
-   Why it guards: Turns chaos into connection — gives every real story a fair hearing, no spin.
-
-3. **Noise Neutralizer** (JBSM)  
-   Catches clutter:  
-   - JABBER (venting rants)  
-   - BLABBER (conspiracies & speculation)  
-   - SOUR (hoaxes & proven false)  
-   - MISC (pure weird / nonsense)  
-
-   Badges: **★ MISLEADING** (unverified claims)  
-
-   Why it guards: Flags junk without deleting or muting — keeps the feed readable while protecting free speech.
-
-   ## Scoring: The Guard’s Lie Detector
-
-ClarityGuard never guesses. Every story gets three transparent scores — so you can judge the verdict yourself.
-
-| Score          | What it measures                              | How it’s calculated (exact weights)                                 | Range & meaning                              |
-|----------------|-----------------------------------------------|---------------------------------------------------------------------|----------------------------------------------|
-| **Grade**      | **Trustworthiness** of the information       | 40 % source quality<br>30 % precision (exact vs vague)<br>20 % corroboration<br>10 % recency (within 24 h = full points) | **A+** ≥ 95 % – gold standard<br>**A** 90–94 %<br>**B** 80–89 %<br>**C** 70–79 %<br>**D** 60–69 %<br>**F** < 60 % – rumor |
-| **Confidence** | **Certainty** we got the category right      | Same weights as Grade                                               | **High** ≥ 80 % – rock solid<br>**Medium** 50–79 % – plausible<br>**Low** < 50 % – big questions |
-| **CAT Fit**    | **Narrative match** (Story Sentinel & Noise Neutralizer only) | 1–10 scale – how perfectly the story fits its bucket              | 10 = textbook example<br>1 = barely fits |
-
-**Special rule (ANALYSIS bucket)**  
-Models, studies, forecasts → **Grade capped at B**, **Confidence capped at Medium**  
-Badge: **★ POLICY LENS: Derived Claim (Check Primaries)**
-
-**Truth with heart.**  
-You see the math.  
-You decide the trust.  
-
-## How ClarityGuard Works (3-Step Flow)
-
-ClarityGuard always runs in this exact order — no shortcuts.
-
-1. **Impact Shield first**  
-   Any real-world hit? (people affected, dollars lost, roads closed)  
-   → Cat 1–5 + **! EMERGENCY WARNING** if lives are at stake.
-
-2. **Story Sentinel next**  
-   No impact? Then it’s a story:  
-   - POLITICS debates  
-   - UNDERSTANDING deep dives  
-   - ANALYSIS (models & studies) → **★ POLICY LENS**  
-   - FUN connectors (memes, festivals) → **★ HIGH-IMPACT AHA!**
-
-3. **Noise Neutralizer last**  
-   Still no fit? It’s noise:  
-   - JABBER · BLABBER · SOUR · MISC  
-   → **★ MISLEADING** badge + “Suggest pre-post review”
-
-One breath, one truth — every time.
-
-## Features
-
-- **One-tap clarity** on any story  
-- **Pre-post preview** — automatically shown only when ClarityGuard flags “Suggest pre-post review” (so you can rewrite before sending) 
-- **Toggle pillars on/off** — hide Politics, Fun, or Noise if you want  
-- **Grok-ready** — works with any AI (just paste the story)  
-- **Fully open-source** — MIT license, no ads, no tracking  
-- **Runs anywhere** — phone, laptop, browser — no install needed for basic use  
-
-Truth with heart  
+❤️ Truth with heart  
+Created by PAGS — 40 years turning chaos into clarity  
 Your clarity. Your control.
 
-## Quick Start (5 seconds)
+### How to use (5 seconds)
+**Option 1 — One-liner (Grok / ChatGPT / Claude / Gemini)**  
+```python
+import requests; print(requests.post("https://clarityguard.onrender.com/run", json={"text":"your story here"}).text)
 
-**Just do this — nothing else:**
+Option 2 — Live API (always free)
+POST → https://clarityguard.onrender.com/run
+Body → { "text": "your story here" }
+Option 3 — Run locally
+Download clarityguard.py · run · paste any story.
+Input length: 1 sentence to ~400 words (one X thread). Longer? Break it up.
+Important notes (because this is free forever)
 
-1. **Copy** this single line (exactly as-is):
-2. **Paste** it into **any** AI chat you already use  
-(Grok • ChatGPT • Claude • Gemini • Discord • WhatsApp • etc.)
+English only
+Built and controlled by one woman (PAGS) — no corporation, no investors, no agenda
+Core engine code stays private — only the API is public
+No forks of the engine allowed — the truth rules are mine to protect
+Not legal, medical, or professional fact-checking — a clarity lens only
+Use it on yourself first. Clarity works both ways.
 
-3. **Press Enter**  
-→ You instantly get the full ClarityGuard verdict (Impact, Story, Noise, Grade, One breath, one truth)
-
-That’s it.  
-No code. No install. No account.
-
-Live API: https://clarityguard.onrender.com/run  
-(works forever, free tier)
-
-Truth with heart  
-One line. One truth.
-
-## ClarityGuard API — One Line, Full Clarity
-
-**Live endpoint (always free):**
-
-
-**How to use — anywhere, any AI:**
-
-Just paste this one line into **any** chat (Grok, ChatGPT, Claude, Gemini, Discord, etc.):
-
-or use the direct URL:
-
-You instantly get the full locked ClarityGuard verdict:
-- Impact Shield (or none)
-- Story Sentinel (Politics / Understanding / Analysis / Fun)
-- Noise Neutralizer (Jabber / Blabber / Sour / Misc)
-- Grade · Confidence · Badges
-- One breath, one truth
-- Suggested rewrite (only when safe & salvageable)
-
-**No code. No install. No changes ever.**
-
-The engine is locked on the server — only you control the rules.
-
-Truth with heart  
-Your clarity. Forever.
-
-## Why ClarityGuard Is Different (2025)
-
-No other open-source tool does this exact combination:
-
-| Feature                              | ClarityGuard | Community Notes | Veracity | Loki | OpenFactCheck | ClaimBuster |
-|--------------------------------------|--------------|------------------|----------|------|---------------|-------------|
-| Real-world impact first (Cat 1–5)    | YES          | No               | No       | No   | No            | No          |
-| Human narrative buckets (Story Sentinel) | YES      | No               | No       | No   | No            | No          |
-| ANALYSIS sub-bucket + ★ POLICY LENS  | YES          | No               | No       | No   | No            | No          |
-| Noise flagged, never banned          | YES          | No               | Partial  | No   | No            | No          |
-| One breath, one truth                | YES          | No               | No       | No   | No            | No          |
-| Suggested rewrite (only when safe)   | YES          | No               | No       | No   | No            | No          |
-| Engine locked on server (API)        | YES          | No               | No       | No   | No            | No          |
-| 100 % free, open-source, no ads      | YES          | No               | Yes      | Yes  | Yes           | Yes         |
-
-**One breath, one truth:**  
-**ClarityGuard = the only clarity lens that counts real impact first, tells both sides second, and flags noise last — without ever deleting a voice.**
-
-Truth with heart  
-Your tool. Your difference.
-
-## About & Contact
-
-**ClarityGuard** is built and maintained by **Pauline Gonen-Smith** —  
-40 years turning chaos into clarity in research, administration, and human systems.
-
-This tool exists because someone had to say:  
-**“Enough noise. Let’s see what’s real.”**
-
-- **GitHub:** https://github.com/PAGSAdmin/ClarityGuard  
-- **Contact:** paulinea.gonensmith@gmail.com  
-- **License:** MIT — free forever, for everyone  
-- **No ads. No tracking. No compromise.**
-
-Truth with heart ❤️  
-Your story deserves clarity.
-
-#ClarityGuard
+Free forever · MIT license · No ads · No tracking · No surrender
+Truth with heart
+Created by PAGS — 40 years turning chaos into clarity
+Your clarity. Your control.
