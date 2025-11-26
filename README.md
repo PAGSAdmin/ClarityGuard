@@ -4,9 +4,13 @@
 
 # ClarityGuard — a free truth quantifying tool forever ❤️
 Created by PAGS
+
 English only · No forks of the engine · Free forever
+
 Every single output is identical for the same story — reproducible truth, every time.
+
 Works in Grok, ChatGPT, Claude, Gemini — no login, no cost.
+
 Built by one woman who got tired of the noise.
 
 ### The problem
