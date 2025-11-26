@@ -4,6 +4,10 @@
 
 # ClarityGuard — a free truth quantifying tool forever ❤️
 Created by PAGS
+English only · No forks of the engine · Free forever
+Every single output is identical for the same story — reproducible truth, every time.
+Works in Grok, ChatGPT, Claude, Gemini — no login, no cost.
+Built by one woman who got tired of the noise.
 
 ### The problem
 Every day we drown in headlines, memes, and posts designed to scare, divide, or confuse us — often in under 280 characters.
@@ -17,6 +21,37 @@ Every day we drown in headlines, memes, and posts designed to scare, divide, or 
 In 3 seconds it turns any messy post into calm, human truth.
 
 **Example — before & after**
+
+**Messy headline**  
+
+“NEW STUDY: Eating one apple a day exposes you to dangerous levels of cyanide from the seeds. Apple seeds contain arsenic-like poison. Doctors warn: stop giving apples to children!”
+
+ClarityGuard — a free truth quantifying tool forever
+Created by PAGS
+
+💡 Story: UNDERSTANDING
+
+🟡 Grade: B | Confidence: High  
+Collect: #Health:Diet:Apples ✨
+
+🗣️ Paraphrase:
+NEW STUDY: Eating one apple a day exposes you to dangerous levels of cyanide from the seeds. Apple seeds contain arsenic-like poison. Doctors warn: stop giving apples to children!
+
+📈 Insight:
+You would need to chew ~200 apple seeds in one sitting for any risk. Dose makes the poison.
+
+🗣️ One breath, one truth:
+Truth: dose makes the poison.
+
+🔍 Learn more → Ask any AI: “How many apple seeds does it take to reach cyanide toxicity?”
+
+*Verdict: You just neutralised a viral fear headline. ClarityGuard applied the dose-makes-the-poison rule and turned panic into calm.*
+
+❤️ Truth with heart  
+Created by PAGS — 40 years turning chaos into clarity  
+Your clarity. Your control.
+
+**Another Example — before & after**
 
 **Messy headline**  
 “SHOCKING: The Puppy Bowl is RIGGED! Referees are paid off by Big Dog Food! Kittens were robbed again!”
