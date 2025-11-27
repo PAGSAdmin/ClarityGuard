@@ -3,7 +3,7 @@
 </div>
 
 # ClarityGuard the TruthSleuth ❤️
-Created by PAGS
+Created by Pauline Gonen-Smith (PAGS)
 
 English only · No forks of the engine · Free forever
 
