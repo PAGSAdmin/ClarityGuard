@@ -28,10 +28,9 @@ In 3 seconds it turns any messy post into calm, human truth.
 
 **Messy headline**  
 
-“NEW STUDY: Eating one apple a day exposes you to dangerous levels of cyanide from the seeds. Apple seeds contain arsenic-like poison. Doctors warn: stop giving apples to children!”
+Run Clarityguard "NEW STUDY: Eating one apple a day exposes you to dangerous levels of cyanide from the seeds. Apple seeds contain arsenic-like poison. Doctors warn: stop giving apples to children!”
 
-ClarityGuard — a free truth quantifying tool forever
-Created by PAGS
+ClarityGuard Output:
 
 💡 Story: UNDERSTANDING
 
@@ -58,10 +57,10 @@ Your clarity. Your control.
 **Another Example — before & after**
 
 **Messy headline**  
-“SHOCKING: The Puppy Bowl is RIGGED! Referees are paid off by Big Dog Food! Kittens were robbed again!”
 
-ClarityGuard — a free truth quantifying tool forever
-Created by PAGS
+Run Clarityguard "SHOCKING: The Puppy Bowl is RIGGED! Referees are paid off by Big Dog Food! Kittens were robbed again!”
+
+ClarityGuard Output:
 
 🎉 Story: FUN
 
