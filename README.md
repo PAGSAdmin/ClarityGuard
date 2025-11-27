@@ -2,7 +2,7 @@
   <img src="Clarity_Guard-logo_2.png" width="120" alt="ClarityGuard"/>
 </div>
 
-# ClarityGuard — a free truth quantifying tool forever ❤️
+# ClarityGuard the TruthSleuth ❤️
 Created by PAGS
 
 English only · No forks of the engine · Free forever
