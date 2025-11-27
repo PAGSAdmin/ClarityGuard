@@ -103,7 +103,7 @@ Your clarity. Your control.
 
 
 
-
+Details on API coming soon ... following is placeholder 
 
 
 ### How to use (5 seconds)
