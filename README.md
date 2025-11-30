@@ -106,7 +106,7 @@ Details on API coming soon ... following is placeholder
 ### How to use (5 seconds)
 **Option 1 — one-liner (copy-paste into Grok/ChatGPT/Claude)**  
 ```python
-import requests; print(requests.post("https://clarityguard.onrender.com/run", json={"text":"your story here"}).text)
+
 
 Important notes
 
