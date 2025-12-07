@@ -5,9 +5,9 @@
 # ClarityGuard the TruthSleuth ❤️
 Created by PAGS
 
-English only · No forks of the engine · Free forever
+English only · No forks of the engine
 
-Works in Grok, ChatGPT, Claude, Gemini — no login, no cost.
+Works in Grok, ChatGPT, Claude, Gemini — no login
 
 Built by one woman who got tired of the noise.
 
