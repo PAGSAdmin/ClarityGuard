@@ -1,4 +1,4 @@
-<div align="center">
+ok<div align="center">
   <img src="Clarity_Guard-logo_2.png" width="120" alt="ClarityGuard"/>
 </div>
 
@@ -87,10 +87,6 @@ Your clarity. Your control.
 ClarityGuard is released under the **MIT License** (see LICENSE file) — free for anyone to use, modify, and share forever.
 
 A provisional patent application (US 63/845,773) covering the Population Impact Factor (PIF) methodology was filed in July 2025. The entire project, including the provisional patent, is available for acquisition.
-
-Interested parties may contact:  
-**paulinea.gonensmith@gmail.com**  
-Credit to Pauline Gonen-Smith (PAGS) 
 
 Until acquisition, ClarityGuard remains 100% free, open-source, and community-driven under MIT.
 
