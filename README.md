@@ -24,7 +24,7 @@ Every day we drown in headlines, memes, and posts designed to scare, divide, or 
 
 ClarityGuard is released under the **MIT License** (see LICENSE file) — 
 
-A provisional patent application (US 63/845,773) covering the Population Impact Factor (PIF) methodology was filed in July 2025. The entire project, including the provisional patent, is available for acquisition.
+A provisional patent application (US 63/845,773) The entire project, including the provisional patent, is available for acquisition.
 
 Truth with heart  
 Created by PAGS — 40 years turning chaos into clarity  
