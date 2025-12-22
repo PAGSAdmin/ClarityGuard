@@ -37,7 +37,6 @@ Important notes
 
 English only
 Built and controlled by one woman (PAGS) — no corporation, no investors
-Core engine stays private — only the API is public
 Not legal/medical fact-checking — a clarity lens only
 Use it on yourself first. Clarity works both ways.
 
