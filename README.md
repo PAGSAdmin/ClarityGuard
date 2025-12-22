@@ -26,8 +26,6 @@ ClarityGuard is released under the **MIT License** (see LICENSE file) —
 
 A provisional patent application (US 63/845,773) covering the Population Impact Factor (PIF) methodology was filed in July 2025. The entire project, including the provisional patent, is available for acquisition.
 
-Until acquisition, ClarityGuard remains 100% free, open-source, and community-driven under MIT.
-
 Truth with heart  
 Created by PAGS — 40 years turning chaos into clarity  
 Your clarity. Your control.
