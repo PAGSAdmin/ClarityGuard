@@ -40,6 +40,5 @@ Built and controlled by one woman (PAGS) — no corporation, no investors
 Not legal/medical fact-checking — a clarity lens only
 Use it on yourself first. Clarity works both ways.
 
-# ClarityGuard — a truth quantifying tool forever ❤️
-Created by PAGS
+
 
