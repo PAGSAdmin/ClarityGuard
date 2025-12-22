@@ -22,7 +22,7 @@ Every day we drown in headlines, memes, and posts designed to scare, divide, or 
 
 ## License & Future
 
-ClarityGuard is released under the **MIT License** (see LICENSE file) — free for anyone to use, modify, and share forever.
+ClarityGuard is released under the **MIT License** (see LICENSE file) — 
 
 A provisional patent application (US 63/845,773) covering the Population Impact Factor (PIF) methodology was filed in July 2025. The entire project, including the provisional patent, is available for acquisition.
 
