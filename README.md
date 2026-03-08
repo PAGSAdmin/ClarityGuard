@@ -4,6 +4,7 @@ ok<div align="center">
 
 # ClarityGuard the TruthSleuth ❤️
 Created by PAGS
+![License: CC0](https://img.shields.io/badge/License-CC0-green)
 
 **A simple, free, personal prompt framework to cut through AI hype and noise and get calm, clear insight fast.**
 
