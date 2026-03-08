@@ -3,7 +3,7 @@ ok<div align="center">
 </div>
 
 # ClarityGuard the TruthSleuth ❤️
-Created by PAGS
+Created by Pauline @Clarityguard on X
 ![License: CC0](https://img.shields.io/badge/License-CC0-green)
 
 **A simple, free, personal prompt framework to cut through AI hype and noise and get calm, clear insight fast.**
