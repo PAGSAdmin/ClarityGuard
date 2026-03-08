@@ -17,7 +17,7 @@ Shaped by lived experience: filtering research noise + artistic intuition.
 License
 Public domain / CC0 — take it, adapt it, share it. No restrictions.
 Made for people who want clarity, not more noise.
-– Pauline Gonen-Smith
+– Pauline
 @ClarityGuard 
 
 ### What it does
